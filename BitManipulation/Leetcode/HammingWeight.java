@@ -1,4 +1,3 @@
-package Leetcode;
 //leetcode problem 191
 
 class Solution {

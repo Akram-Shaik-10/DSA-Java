@@ -1,5 +1,3 @@
-package Leetcode;
-
 class Solution {
     public int[][] flipAndInvertImage(int[][] image) {
         int r = image.length;

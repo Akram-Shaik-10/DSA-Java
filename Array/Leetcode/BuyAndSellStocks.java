@@ -1,7 +1,7 @@
 //leetcode 121
 //Return the maximum profit you can achieve from this transaction. If you cannot achieve any profit, return 0.
 
-package Array.Leetcode;
+
 
 class Solution {
     public int maxProfit(int[] prices) {
